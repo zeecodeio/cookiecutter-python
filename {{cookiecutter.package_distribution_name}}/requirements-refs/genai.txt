@@ -1,0 +1,16 @@
+jupyter # https://jupyter.org/ - Jupyter is a free, open-source, interactive web tool known as a computational notebook, which researchers can use to combine software code, computational output, explanatory text and multimedia resources in a single document.
+ipykernel # https://ipykernel.readthedocs.io/en/latest/ - The IPython kernel for Jupyter
+numpy # https://numpy.org/ - NumPy is the fundamental package for scientific computing with Python.
+pandas # https://pandas.pydata.org/ - pandas is a fast, powerful, flexible and easy to use open source data analysis and data manipulation library built on top of the Python programming language.
+torchvision # https://pytorch.org/vision/stable/index.html - The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
+torch # https://pytorch.org/ - An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+sklearn # https://scikit-learn.org/stable/ - Simple and efficient tools for predictive data analysis
+openpyxl # https://openpyxl.readthedocs.io/en/stable/ - A Python library to read/write Excel 2010 xlsx/xlsm files
+matplotlib # https://matplotlib.org/stable/users/explain/quick_start.html - Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+plotly # https://plotly.com/python/ - Plotly is a Python graphing library that makes interactive, publication-quality graphs online. https://dash.plotly.com/minimal-app
+streamlit # https://streamlit.io/ - Streamlit is an open-source app framework for Machine Learning and Data Science teams. Create beautiful data apps in hours, not weeks. All in pure Python. All for free.
+names # https://pypi.org/project/names/ - Generate random names
+openai # https://pypi.org/project/openai/ - OpenAI is an artificial intelligence research laboratory consisting of the for-profit OpenAI LP and the non-profit OpenAI Inc. The company aims to ensure that artificial general intelligence benefits all of humanity.    
+langchain # https://pypi.org/project/langchain/ - Langchain is a Python library that provides a simple interface to the OpenAI API. It is designed to be easy to use and flexible, allowing you to quickly build and train models for a wide range of natural language processing tasks.
+langchain-community # https://pypi.org/project/langchain-community/ - Langchain is a Python library that provides a simple interface to the OpenAI API. It is designed to be easy to use and flexible, allowing you to quickly build and train models for a wide range of natural language processing tasks.
+langchain-openai # https://pypi.org/project/langchain-openai/ - Langchain is a Python library that provides a simple interface to the OpenAI API. It is designed to be easy to use and flexible, allowing you to quickly build and train models for a wide range of natural language processing tasks.
